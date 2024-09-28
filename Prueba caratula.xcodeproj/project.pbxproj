@@ -1,0 +1,676 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4959C9B32CA720A20008C8B4 /* Prueba caratula Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 4959C9B22CA720A20008C8B4 /* Prueba caratula Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4959C9B42CA720A20008C8B4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4959C9A62CA720A20008C8B4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4959C9B12CA720A20008C8B4;
+			remoteInfo = "Prueba caratula Watch App";
+		};
+		4959C9C52CA720A70008C8B4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4959C9A62CA720A20008C8B4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4959C9B12CA720A20008C8B4;
+			remoteInfo = "Prueba caratula Watch App";
+		};
+		4959C9CF2CA720A70008C8B4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4959C9A62CA720A20008C8B4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4959C9B12CA720A20008C8B4;
+			remoteInfo = "Prueba caratula Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		4959C9DB2CA720A70008C8B4 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				4959C9B32CA720A20008C8B4 /* Prueba caratula Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		4959C9AC2CA720A20008C8B4 /* Prueba caratula.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Prueba caratula.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4959C9B22CA720A20008C8B4 /* Prueba caratula Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Prueba caratula Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4959C9C42CA720A70008C8B4 /* Prueba caratula Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prueba caratula Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4959C9CE2CA720A70008C8B4 /* Prueba caratula Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prueba caratula Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		4959C9E82CA733110008C8B4 /* Exceptions for "Prueba caratula Watch App" folder in "Prueba caratula" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Soulmeh.otf,
+			);
+			target = 4959C9AB2CA720A20008C8B4 /* Prueba caratula */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4959C9B62CA720A20008C8B4 /* Prueba caratula Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				4959C9E82CA733110008C8B4 /* Exceptions for "Prueba caratula Watch App" folder in "Prueba caratula" target */,
+			);
+			path = "Prueba caratula Watch App";
+			sourceTree = "<group>";
+		};
+		4959C9C72CA720A70008C8B4 /* Prueba caratula Watch AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Prueba caratula Watch AppTests";
+			sourceTree = "<group>";
+		};
+		4959C9D12CA720A70008C8B4 /* Prueba caratula Watch AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Prueba caratula Watch AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4959C9AF2CA720A20008C8B4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4959C9C12CA720A70008C8B4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4959C9CB2CA720A70008C8B4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4959C9A52CA720A20008C8B4 = {
+			isa = PBXGroup;
+			children = (
+				4959C9B62CA720A20008C8B4 /* Prueba caratula Watch App */,
+				4959C9C72CA720A70008C8B4 /* Prueba caratula Watch AppTests */,
+				4959C9D12CA720A70008C8B4 /* Prueba caratula Watch AppUITests */,
+				4959C9AD2CA720A20008C8B4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4959C9AD2CA720A20008C8B4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4959C9AC2CA720A20008C8B4 /* Prueba caratula.app */,
+				4959C9B22CA720A20008C8B4 /* Prueba caratula Watch App.app */,
+				4959C9C42CA720A70008C8B4 /* Prueba caratula Watch AppTests.xctest */,
+				4959C9CE2CA720A70008C8B4 /* Prueba caratula Watch AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4959C9AB2CA720A20008C8B4 /* Prueba caratula */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4959C9DC2CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula" */;
+			buildPhases = (
+				4959C9AA2CA720A20008C8B4 /* Resources */,
+				4959C9DB2CA720A70008C8B4 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4959C9B52CA720A20008C8B4 /* PBXTargetDependency */,
+			);
+			name = "Prueba caratula";
+			packageProductDependencies = (
+			);
+			productName = "Prueba caratula";
+			productReference = 4959C9AC2CA720A20008C8B4 /* Prueba caratula.app */;
+			productType = "com.apple.product-type.application.watchapp2-container";
+		};
+		4959C9B12CA720A20008C8B4 /* Prueba caratula Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4959C9D82CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula Watch App" */;
+			buildPhases = (
+				4959C9AE2CA720A20008C8B4 /* Sources */,
+				4959C9AF2CA720A20008C8B4 /* Frameworks */,
+				4959C9B02CA720A20008C8B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4959C9B62CA720A20008C8B4 /* Prueba caratula Watch App */,
+			);
+			name = "Prueba caratula Watch App";
+			packageProductDependencies = (
+			);
+			productName = "Prueba caratula Watch App";
+			productReference = 4959C9B22CA720A20008C8B4 /* Prueba caratula Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4959C9C32CA720A70008C8B4 /* Prueba caratula Watch AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4959C9DF2CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula Watch AppTests" */;
+			buildPhases = (
+				4959C9C02CA720A70008C8B4 /* Sources */,
+				4959C9C12CA720A70008C8B4 /* Frameworks */,
+				4959C9C22CA720A70008C8B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4959C9C62CA720A70008C8B4 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4959C9C72CA720A70008C8B4 /* Prueba caratula Watch AppTests */,
+			);
+			name = "Prueba caratula Watch AppTests";
+			packageProductDependencies = (
+			);
+			productName = "Prueba caratula Watch AppTests";
+			productReference = 4959C9C42CA720A70008C8B4 /* Prueba caratula Watch AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4959C9CD2CA720A70008C8B4 /* Prueba caratula Watch AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4959C9E22CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula Watch AppUITests" */;
+			buildPhases = (
+				4959C9CA2CA720A70008C8B4 /* Sources */,
+				4959C9CB2CA720A70008C8B4 /* Frameworks */,
+				4959C9CC2CA720A70008C8B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4959C9D02CA720A70008C8B4 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4959C9D12CA720A70008C8B4 /* Prueba caratula Watch AppUITests */,
+			);
+			name = "Prueba caratula Watch AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "Prueba caratula Watch AppUITests";
+			productReference = 4959C9CE2CA720A70008C8B4 /* Prueba caratula Watch AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4959C9A62CA720A20008C8B4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					4959C9AB2CA720A20008C8B4 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					4959C9B12CA720A20008C8B4 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					4959C9C32CA720A70008C8B4 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 4959C9B12CA720A20008C8B4;
+					};
+					4959C9CD2CA720A70008C8B4 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 4959C9B12CA720A20008C8B4;
+					};
+				};
+			};
+			buildConfigurationList = 4959C9A92CA720A20008C8B4 /* Build configuration list for PBXProject "Prueba caratula" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4959C9A52CA720A20008C8B4;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4959C9AD2CA720A20008C8B4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4959C9AB2CA720A20008C8B4 /* Prueba caratula */,
+				4959C9B12CA720A20008C8B4 /* Prueba caratula Watch App */,
+				4959C9C32CA720A70008C8B4 /* Prueba caratula Watch AppTests */,
+				4959C9CD2CA720A70008C8B4 /* Prueba caratula Watch AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4959C9AA2CA720A20008C8B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4959C9B02CA720A20008C8B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4959C9C22CA720A70008C8B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4959C9CC2CA720A70008C8B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4959C9AE2CA720A20008C8B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4959C9C02CA720A70008C8B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4959C9CA2CA720A70008C8B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4959C9B52CA720A20008C8B4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4959C9B12CA720A20008C8B4 /* Prueba caratula Watch App */;
+			targetProxy = 4959C9B42CA720A20008C8B4 /* PBXContainerItemProxy */;
+		};
+		4959C9C62CA720A70008C8B4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4959C9B12CA720A20008C8B4 /* Prueba caratula Watch App */;
+			targetProxy = 4959C9C52CA720A70008C8B4 /* PBXContainerItemProxy */;
+		};
+		4959C9D02CA720A70008C8B4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4959C9B12CA720A20008C8B4 /* Prueba caratula Watch App */;
+			targetProxy = 4959C9CF2CA720A70008C8B4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4959C9D62CA720A70008C8B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4959C9D72CA720A70008C8B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		4959C9D92CA720A70008C8B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Prueba caratula Watch App/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Prueba caratula";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Debug;
+		};
+		4959C9DA2CA720A70008C8B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Prueba caratula Watch App/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Prueba caratula";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Release;
+		};
+		4959C9DD2CA720A70008C8B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_KEY_CFBundleDisplayName = "Prueba caratula";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		4959C9DE2CA720A70008C8B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_KEY_CFBundleDisplayName = "Prueba caratula";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4959C9E02CA720A70008C8B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Prueba caratula Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Prueba caratula Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Debug;
+		};
+		4959C9E12CA720A70008C8B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Prueba caratula Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Prueba caratula Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Release;
+		};
+		4959C9E32CA720A70008C8B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "Prueba caratula Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Debug;
+		};
+		4959C9E42CA720A70008C8B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fullapp.Prueba-caratula-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "Prueba caratula Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4959C9A92CA720A20008C8B4 /* Build configuration list for PBXProject "Prueba caratula" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4959C9D62CA720A70008C8B4 /* Debug */,
+				4959C9D72CA720A70008C8B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4959C9D82CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4959C9D92CA720A70008C8B4 /* Debug */,
+				4959C9DA2CA720A70008C8B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4959C9DC2CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4959C9DD2CA720A70008C8B4 /* Debug */,
+				4959C9DE2CA720A70008C8B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4959C9DF2CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula Watch AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4959C9E02CA720A70008C8B4 /* Debug */,
+				4959C9E12CA720A70008C8B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4959C9E22CA720A70008C8B4 /* Build configuration list for PBXNativeTarget "Prueba caratula Watch AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4959C9E32CA720A70008C8B4 /* Debug */,
+				4959C9E42CA720A70008C8B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4959C9A62CA720A20008C8B4 /* Project object */;
+}
