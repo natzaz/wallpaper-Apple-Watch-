@@ -1,5 +1,8 @@
 # Apple Watch Face App
 
+![Watch Face Preview](https://raw.githubusercontent.com/natzaz/wallpaper-Apple-Watch-/main/EXAMPLE.png)
+
+
 This project is an Apple Watch face app designed using **SwiftUI**. It features a dynamic, animated background and displays the current time in real-time. The app is optimized to adapt to different Apple Watch sizes, ranging from 40mm to 49mm, providing a flexible and responsive layout.
 
 ## Features
